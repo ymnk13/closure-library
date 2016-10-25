@@ -62,7 +62,7 @@
 .goog-hsv-palette-v-image,
 .goog-hsv-palette-hs-handle,
 .goog-hsv-palette-v-handle {
-  background-image: url(//ssl.gstatic.com/closure/hsv-sprite.png);
+  background-image: url("../images/hsva-sprite.png");
 }
 
 .goog-hsv-palette-noalpha .goog-hsv-palette-hs-image,
